@@ -13,6 +13,7 @@ This vault follows a three-layer model:
 - Keep `index.md` updated when pages are added, renamed, or substantially changed.
 - Append a short entry to `log.md` for every ingest, major query artifact, or lint pass.
 - Use Obsidian wiki links (`[[Page Name]]`) for cross-references whenever possible.
+- Saved content in this vault may be written in Korean when appropriate.
 - Surface contradictions explicitly instead of silently overwriting older claims.
 
 ## Standard operations
