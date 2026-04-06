@@ -163,7 +163,7 @@
   },
   "defaultProfile": "darwinIntegratedDefault",
   "terminalOptions": {
-    "documentOverride": null,
-    "fontFamily": "jcoding"
+    "fontFamily": "jcoding",
+    "documentOverride": null
   }
 }
