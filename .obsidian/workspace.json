@@ -18,6 +18,41 @@
             }
           },
           {
+            "id": "f6c84fd0378990a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "overview"
+            }
+          },
+          {
+            "id": "537de502e8113524",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "log.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "log"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "ebab9e80d6ced7d9",
+        "type": "tabs",
+        "children": [
+          {
             "id": "6992bdff488e34ec",
             "type": "leaf",
             "pinned": true,
@@ -59,8 +94,7 @@
               "title": "터미널: zsh"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,10 +284,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6992bdff488e34ec",
+  "active": "537de502e8113524",
   "lastOpenFiles": [
-    "AGENTS.md",
     "index.md",
+    "schema/page-template.md",
+    "wiki/concepts/Nyquist Validation.md",
+    "wiki/concepts/Context Rot.md",
+    "wiki/entities/GSD.md",
+    "wiki/sources/2026-03-19 GSD Multi Agent Plan Verification Update.md",
+    "wiki/sources/2026-03-26 GSD Context Engineering for Coding Agents.md",
+    "wiki/sources/2026-03-10 GSD Get Shit Done Context Engineering.md",
+    "schema/operations.md",
+    "AGENTS.md",
+    "wiki/overview.md",
     "raw/inbox/2026-04-05-superpowers-plugin-claude-code-guide.md",
     "raw/inbox/2026-04-05-harness-engineering-complete-guide.md",
     "raw/inbox/2026-04-05-design-md-ai-agent-design-system.md",
@@ -269,15 +312,6 @@
     "raw/inbox/2026-04-02-claude-code-ai-marketing-team-agents-skills.md",
     "raw/inbox/2026-04-01-mcp-vs-skills-cli-cost-governance.md",
     "raw/inbox/2026-04-01-harness-agent-team-ab-test-quality-improvement.md",
-    "raw/inbox/2026-04-01-cokacdir-telegram-claude-code-remote.md",
-    "raw/inbox/2026-04-01-claude-howto-complete-guide.md",
-    "raw/inbox/2026-04-01-claude-code-source-code-9-secrets.md",
-    "raw/inbox/2026-03-31-issue-tracking-is-dead-prototype-first.md",
-    "raw/inbox/2026-03-30-paperclip-ai-company-framework.md",
-    "raw/inbox/2026-03-30-jpmorgan-python-training.md",
-    "raw/inbox/2026-03-30-harness-engineering-practice-management.md",
-    "raw/inbox/2026-03-30-harness-engineering-beginner-guide.md",
-    "raw/inbox/2026-03-30-game-design-planning-core-fun-intent.md",
     "skills-lock.json",
     "schema",
     "wiki/syntheses",
