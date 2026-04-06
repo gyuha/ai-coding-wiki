@@ -6,43 +6,28 @@
       {
         "id": "4d1bc9fe2b968bba",
         "type": "tabs",
-        "dimension": 34.76923076923077,
+        "dimension": 48.375451263537904,
         "children": [
-          {
-            "id": "87627ac11e2f7d37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "환영합니다!.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "환영합니다!"
-            }
-          },
           {
             "id": "8eaa646c9a0c5579",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/inbox/2026-03-27 G스택 — YC 대표 게리탄이 혼자 60만 줄을 짠 AI 개발 팀 시스템.md",
+                "file": "raw/inbox/2026-04-01-claude-code-source-code-9-secrets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-27 G스택 — YC 대표 게리탄이 혼자 60만 줄을 짠 AI 개발 팀 시스템"
+              "title": "2026-04-01-claude-code-source-code-9-secrets"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "17a283c039bb771b",
         "type": "tabs",
-        "dimension": 65.23076923076923,
+        "dimension": 51.624548736462096,
         "children": [
           {
             "id": "70c1179e0a5716a2",
@@ -277,8 +262,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6992bdff488e34ec",
+  "active": "8eaa646c9a0c5579",
   "lastOpenFiles": [
+    "raw/inbox/2026-04-01-claude-howto-complete-guide.md",
+    "raw/inbox/2026-04-01-mcp-vs-skills-cli-cost-governance.md",
+    "raw/inbox/2026-04-02-gstack-vs-harness-engineering-practical-view.md",
+    "raw/inbox/2026-04-04-claude-code-lightrag.md",
+    "raw/inbox/2026-04-05-harness-engineering-complete-guide.md",
+    "raw/inbox/2026-04-05-superpowers-plugin-claude-code-guide.md",
+    "raw/inbox/2026-03-02-tests-are-the-new-moat.md",
+    "raw/inbox/2026-03-04-15-year-cto-vibe-coding.md",
+    "raw/inbox/2026-03-04-ai-coding-hidden-costs.md",
+    "raw/inbox/2026-03-04-anthropic-skilljar-courses.md",
+    "raw/inbox/2026-03-04-mcp-is-dead-skills-are-future.md",
+    "raw/inbox/2026-03-04-mcp-9-practical-guide-2026.md",
+    "raw/inbox/2026-03-04-oh-my-claudecode.md",
+    "raw/inbox/2026-03-05-ai-skills-9-essential.md",
+    "raw/inbox/2026-03-05-claude-code-hooks.md",
+    "raw/inbox/2026-03-30-jpmorgan-python-training.md",
+    "raw/inbox/2026-03-30-harness-engineering-beginner-guide.md",
+    "raw/inbox/2026-04-01-claude-code-source-code-9-secrets.md",
+    "raw/inbox/2026-03-26 GSD - AI 코딩 에이전트의 컨텍스트 붕괴를 해결하는 워크플로우 시스템.md",
     "raw/inbox/2026-03-27 G스택 — YC 대표 게리탄이 혼자 60만 줄을 짠 AI 개발 팀 시스템.md",
     "AGENTS.md",
     "skills-lock.json",
@@ -295,8 +299,6 @@
     "wiki",
     "raw/inbox",
     "raw/assets",
-    "raw",
-    "무제.md",
-    "환영합니다!.md"
+    "raw"
   ]
 }
