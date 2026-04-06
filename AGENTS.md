@@ -14,6 +14,7 @@ This vault follows a three-layer model:
 - Append a short entry to `log.md` for every ingest, major query artifact, or lint pass.
 - Use Obsidian wiki links (`[[Page Name]]`) for cross-references whenever possible.
 - Write documents in this vault in Korean.
+- Use Mermaid charts whenever possible when representing flows or structure.
 - Surface contradictions explicitly instead of silently overwriting older claims.
 
 ## Standard operations
