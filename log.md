@@ -31,3 +31,9 @@ Append-only operational log.
 - Added source note `wiki/sources/2026-03-19 GSD Multi Agent Plan Verification Update.md` from `raw/inbox/2026-03-19-gsd-update-multi-agent-plan-verification.md`.
 - Expanded the repaired GSD cluster with the March 19 update's focus on multi-agent orchestration, planner→checker→revise, `/gsd:verify-work`, and discuss-phase strengthening.
 - Updated `index.md` so the new source is discoverable alongside the restored GSD pages.
+
+## [2026-04-07] ingest | Harness Engineering complete guide
+
+- Added raw source `raw/inbox/2026-04-05-harness-engineering-complete-guide.md` from `https://r.jina.ai/http://gyuha.com/post/2026/04/2026-04-05-harness-engineering-complete-guide/`.
+- Added source note `wiki/sources/2026-04-05 Harness Engineering Complete Guide.md` and created `wiki/concepts/Harness Engineering.md` as the first curated page for this concept.
+- Updated `index.md` so the new source and concept are discoverable from the main catalog.

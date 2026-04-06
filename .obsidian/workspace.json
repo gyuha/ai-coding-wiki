@@ -11,10 +11,14 @@
             "id": "70c1179e0a5716a2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -255,8 +259,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6992bdff488e34ec",
+  "active": "70c1179e0a5716a2",
   "lastOpenFiles": [
+    "AGENTS.md",
+    "wiki/concepts/Harness Engineering.md",
+    "wiki/sources/2026-04-05 Harness Engineering Complete Guide.md",
+    "raw/inbox/2026-04-05-harness-engineering-complete-guide.md",
     "wiki/concepts/Context Rot.md",
     "wiki/entities/GSD.md",
     "wiki/sources/2026-03-10 GSD Get Shit Done Context Engineering.md",
@@ -267,11 +275,9 @@
     "schema/operations.md",
     "log.md",
     "index.md",
-    "AGENTS.md",
     "wiki/concepts/Nyquist Validation.md",
     "wiki/overview.md",
     "raw/inbox/2026-04-05-superpowers-plugin-claude-code-guide.md",
-    "raw/inbox/2026-04-05-harness-engineering-complete-guide.md",
     "raw/inbox/2026-04-05-design-md-ai-agent-design-system.md",
     "raw/inbox/2026-04-05-best-claude-code-github-repos-2026.md",
     "raw/inbox/2026-04-04-kis-ai-extensions-openapi-agent-trading-pipeline.md",
@@ -281,8 +287,6 @@
     "raw/inbox/2026-04-04-claude-code-cli-tools-10-picks.md",
     "raw/inbox/2026-04-02-gstack-vs-harness-engineering-practical-view.md",
     "raw/inbox/2026-04-02-claude-code-three-frameworks-gsd-gstack-superpowers.md",
-    "raw/inbox/2026-04-02-claude-code-notebooklm-infinite-memory.md",
-    "raw/inbox/2026-04-02-claude-code-ai-marketing-team-agents-skills.md",
     "skills-lock.json",
     "schema",
     "wiki/syntheses",
