@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AGENTS.md",
+                "file": "raw/inbox/2026-03-27 G스택 — YC 대표 게리탄이 혼자 60만 줄을 짠 AI 개발 팀 시스템.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AGENTS"
+              "title": "2026-03-27 G스택 — YC 대표 게리탄이 혼자 60만 줄을 짠 AI 개발 팀 시스템"
             }
           }
         ],
@@ -93,7 +93,7 @@
               },
               "pinned": true,
               "icon": "terminal",
-              "title": "터미널: OC | 스킬 명령어 분리와 한글 도움말 추가"
+              "title": "터미널: zsh"
             }
           }
         ],
@@ -270,12 +270,18 @@
       "command-palette:명령어 팔레트 열기": false,
       "bases:새 베이스 생성하기": false,
       "markdown-importer:마크다운 형식 불러오기 열기": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "6992bdff488e34ec",
   "lastOpenFiles": [
+    "raw/inbox/2026-03-27 G스택 — YC 대표 게리탄이 혼자 60만 줄을 짠 AI 개발 팀 시스템.md",
     "AGENTS.md",
+    "skills-lock.json",
     "index.md",
     "log.md",
     "schema/page-template.md",

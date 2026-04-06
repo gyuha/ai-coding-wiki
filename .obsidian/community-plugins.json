@@ -1,3 +1,10 @@
 [
-  "terminal"
+  "terminal",
+  "dataview",
+  "editing-toolbar",
+  "obsidian-excalidraw-plugin",
+  "obsidian-git",
+  "obsidian-icon-folder",
+  "mermaid-tools",
+  "templater-obsidian"
 ]
